@@ -4,6 +4,8 @@ import Footer from "../components/Footer/Footer";
 import ProductSection from "../components/ProductSection/ProductSection";
 import WhyChooseUS from "../components/WhyChooseUs/WhyChooseUS";
 import TrendingProducts from "../components/TrendingProducts/TrendingProducts";
+import FAQ from "../components/FAQ/FAQ";
+import PriceDeals from "../components/PriceDeals/PriceDeals";
 
 const Main = () => {
   return (
@@ -13,6 +15,8 @@ const Main = () => {
       <ProductSection />
       <TrendingProducts />
       <WhyChooseUS />
+      <PriceDeals />
+      <FAQ />
       <Footer />
     </div>
   );
