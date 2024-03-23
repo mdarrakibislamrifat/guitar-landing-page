@@ -1,8 +1,8 @@
 const TrendingProducts = () => {
   return (
     <div>
-      <h1 className="text-3xl text-center font-bold underline mb-4">
-        Best Selling Products
+      <h1 className="text-3xl font-mono text-blue-500 text-center font-bold underline mb-4">
+        Trending Products
       </h1>
       <div
         className="grid grid-cols-2

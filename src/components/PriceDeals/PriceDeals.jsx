@@ -1,7 +1,9 @@
 const PriceDeals = () => {
   return (
     <div>
-      <h1 className="text-3xl font-bold text-center underline">Price Plan</h1>
+      <h1 className="text-3xl font-bold text-center font-mono text-blue-500 underline">
+        Price Plan
+      </h1>
       <div className="grid lg:grid-cols-2 px-8 gap-10 text-zinc-800 mt-16">
         <div className="flex flex-col items-center bg-slate-100 p-8 rounded-lg shadow-lg max-w-sm">
           <div>

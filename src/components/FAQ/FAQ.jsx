@@ -7,7 +7,7 @@ const FAQ = () => {
             <div className="flex flex-col lg:flex-row flex-wrap">
               <div className="mt-4 lg:mt-0 lg:w-3/5">
                 <div>
-                  <h1 className="text-3xl ml-2 lg:ml-0 lg:text-4xl font-bold text-black tracking-normal lg:w-11/12">
+                  <h1 className="text-3xl ml-2 lg:ml-0 lg:text-4xl font-bold text-black tracking-normal lg:w-11/12 font-mono">
                     <span className="text-blue-500">Frequently</span> asked
                     questions
                   </h1>

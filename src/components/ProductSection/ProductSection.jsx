@@ -1,7 +1,7 @@
 const ProductSection = () => {
   return (
     <div>
-      <h1 className="text-3xl underline font-bold text-center">
+      <h1 className="text-3xl text-blue-500 font-mono underline font-bold text-center">
         Featured Products
       </h1>
       <section

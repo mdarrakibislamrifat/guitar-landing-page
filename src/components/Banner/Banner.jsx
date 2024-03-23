@@ -9,8 +9,9 @@ const Banner = () => {
     >
       <div className="flex flex-col  gap-6 md:flex-row items-center max-w-8xl">
         <div className="w-full md:w-1/2 lg:pr-32">
-          <h2 className="text-3xl lg:text-5xl text-center md:text-left text-blue-900 leading-tight font-medium">
-            GUITAR EMPORIUM Your Destination for Quality Guitars.
+          <h2 className="text-3xl lg:text-5xl text-center md:text-left font-serif  leading-tight font-medium">
+            <span className="text-pink-500 ">Jbanez</span> New Series Paul
+            Timmons Signature
           </h2>
           <h3 className="mt-6 md:mt-6 text-md lg:text-xl text-center md:text-left text-gray-700 font-light tracking-wider leading-relaxed">
             Explore our wide selection of guitars, amplifiers, pedals, and

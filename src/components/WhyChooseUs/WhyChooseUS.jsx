@@ -6,7 +6,7 @@ const WhyChooseUS = () => {
     <div className="bg-white">
       <section className="relative block px-6 py-10 md:py-20 md:px-10  border-t border-b ">
         <div className="relative mx-auto max-w-5xl text-center">
-          <span className=" my-3 text-xl flex items-center justify-center font-medium uppercase tracking-wider">
+          <span className=" my-3 text-3xl font-mono flex items-center justify-center text-blue-500 font-medium uppercase tracking-wider">
             Why choose us
           </span>
           <marquee>
